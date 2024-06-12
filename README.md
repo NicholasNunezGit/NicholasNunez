@@ -2,7 +2,7 @@
   
   Welcome to my portfolio.
   
-<a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<a href="www.linkedin.com/in/nicholas-nunez-173b042ab">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
