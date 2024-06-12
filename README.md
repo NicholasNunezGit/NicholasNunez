@@ -1,4 +1,4 @@
-<h1> Hello I am Nicholas Nunez.
+<h1> Hello my name Nicholas Nunez.
   
   Welcome to my portfolio.
   
